@@ -1,29 +1,25 @@
-# results-page
+# 程式碼評測結果展示網頁
 
-This template should help get you started developing with Vue 3 in Vite.
+展示程式碼評測結果供查詢。
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+## 安裝專案套件
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+## 開發模式 (即時更新)
+
+用於開發或測試功能，執行以下指令
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## 部署到 GitHub Pages
+
+將專案 **建置並部署** 到 GitHub Pages，執行以下指令
 
 ```sh
-npm run build
+npm run deploy
 ```
